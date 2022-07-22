@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(190, 247, 228);
+}
+
+h2 {
+  font-size: 20px;
+  text-align: center;
+}
